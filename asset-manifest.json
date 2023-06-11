@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GoT_Rolodex/static/css/main.1c6b46c5.css",
+    "main.js": "/GoT_Rolodex/static/js/main.1858d6cd.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/GoT_Rolodex/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/GoT_Rolodex/index.html",
+    "main.1c6b46c5.css.map": "/GoT_Rolodex/static/css/main.1c6b46c5.css.map",
+    "main.1858d6cd.js.map": "/GoT_Rolodex/static/js/main.1858d6cd.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/GoT_Rolodex/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c6b46c5.css",
+    "static/js/main.1858d6cd.js"
+  ]
+}
